@@ -20,6 +20,8 @@ The public surface is exposed as `window.WundervaultCrypto`.
 
 For a zero-knowledge product, trust comes from auditability. The proof that "the server can't read your secrets" lives in the *client* — this file — not the server. This code is already delivered to every visitor's browser as plaintext JavaScript; publishing it here just makes it easy to read, diff, and audit.
 
+You can also verify the claim without reading any code: [wundervault.com/verify](https://wundervault.com/verify) walks through watching your own network boundary (browser DevTools in 60 seconds, or a mitmproxy canary test) and includes the transcript of our own test run.
+
 ## Security model
 
 See the full threat model and cryptographic design in the [Wundervault whitepaper](https://wundervault.com/whitepaper).
