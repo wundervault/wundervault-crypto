@@ -26,6 +26,10 @@ You can also verify the claim without reading any code: [wundervault.com/verify]
 
 See the full threat model and cryptographic design in the [Wundervault whitepaper](https://wundervault.com/whitepaper).
 
+## Stay updated
+
+Releases, security notes and product posts go out on X as [@wundervault1](https://x.com/wundervault1). Full release history: [wundervault.com/changelog](https://wundervault.com/changelog).
+
 ## License
 
 Licensed under the **GNU Affero General Public License v3.0 or later** (`AGPL-3.0-or-later`). See [LICENSE](LICENSE).
